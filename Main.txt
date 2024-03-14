@@ -10,3 +10,5 @@ Kendaraaan
 - Kapal Laut
 - Kapal Selam
 - Sepeda Motor
+- Sepeda 
+- Becak
