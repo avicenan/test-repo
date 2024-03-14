@@ -1,3 +1,14 @@
 ini tes main-main aja
 
 dibawah ini tuliskan jenis-jenis benda berdasarkan kategori masin-masing
+
+Makanan
+- Hamburger
+- Rendang
+- Nasi Goreng
+- Ayam Goreng
+- Sate Ayam
+- Soto Ayam
+- Soto Mie
+- Siomay
+- Batagor
