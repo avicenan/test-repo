@@ -10,3 +10,37 @@ Buah
 - Melon
 - Jeruk
 - Manggis
+
+Hewan
+- Gajah
+- Jerapah
+- Kucing
+- Angsa
+- Bebek
+- Ayam
+- Kancil
+- Singa
+- Beruang
+- Harimau
+
+Kendaraaan
+- Mobil
+- Kereta
+- Truk
+- Pesawat
+- Kapal Laut
+- Kapal Selam
+- Sepeda Motor
+
+Makanan
+- Hamburger
+- Rendang
+- Nasi Goreng
+- Ayam Goreng
+- Sate Ayam
+- Soto Ayam
+- Soto Mie
+- Siomay
+- Batagor
+- Dimsum
+- Pizzas
