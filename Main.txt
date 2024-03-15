@@ -10,3 +10,16 @@ Kendaraaan
 - Kapal Laut
 - Kapal Selam
 - Sepeda Motor
+
+Makanan
+- Hamburger
+- Rendang
+- Nasi Goreng
+- Ayam Goreng
+- Sate Ayam
+- Soto Ayam
+- Soto Mie
+- Siomay
+- Batagor
+- Dimsum
+- Pizzas
