@@ -2,6 +2,19 @@ ini tes main-main aja
 
 dibawah ini tuliskan jenis-jenis benda berdasarkan kategori masin-masing
 
+
+Hewan
+- Gajah
+- Jerapah
+- Kucing
+- Angsa
+- Bebek
+- Ayam
+- Kancil
+- Singa
+- Beruang
+- Harimau
+
 Kendaraaan
 - Mobil
 - Kereta
@@ -23,3 +36,4 @@ Makanan
 - Batagor
 - Dimsum
 - Pizzas
+
