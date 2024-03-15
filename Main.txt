@@ -2,6 +2,7 @@ ini tes main-main aja
 
 dibawah ini tuliskan jenis-jenis benda berdasarkan kategori masin-masing
 
+
 Hewan
 - Gajah
 - Jerapah
@@ -13,3 +14,26 @@ Hewan
 - Singa
 - Beruang
 - Harimau
+
+Kendaraaan
+- Mobil
+- Kereta
+- Truk
+- Pesawat
+- Kapal Laut
+- Kapal Selam
+- Sepeda Motor
+
+Makanan
+- Hamburger
+- Rendang
+- Nasi Goreng
+- Ayam Goreng
+- Sate Ayam
+- Soto Ayam
+- Soto Mie
+- Siomay
+- Batagor
+- Dimsum
+- Pizzas
+
