@@ -2,6 +2,14 @@ ini tes main-main aja
 
 dibawah ini tuliskan jenis-jenis benda berdasarkan kategori masin-masing
 
+Buah
+- Semangka
+- Apel
+- Nanas
+- Durian
+- Melon
+- Jeruk
+- Manggis
 
 Hewan
 - Gajah
@@ -36,4 +44,3 @@ Makanan
 - Batagor
 - Dimsum
 - Pizzas
-
