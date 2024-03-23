@@ -12,3 +12,4 @@ Kendaraaan
 - Sepeda Motor
 - Sepeda 
 - Becak
+- Bajai
