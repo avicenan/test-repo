@@ -2,6 +2,27 @@ ini tes main-main aja
 
 dibawah ini tuliskan jenis-jenis benda berdasarkan kategori masin-masing
 
+Buah
+- Semangka
+- Apel
+- Nanas
+- Durian
+- Melon
+- Jeruk
+- Manggis
+
+Hewan
+- Gajah
+- Jerapah
+- Kucing
+- Angsa
+- Bebek
+- Ayam
+- Kancil
+- Singa
+- Beruang
+- Harimau
+
 Kendaraaan
 - Mobil
 - Kereta
@@ -13,3 +34,17 @@ Kendaraaan
 - Sepeda 
 - Becak
 - Bajai
+
+
+Makanan
+- Hamburger
+- Rendang
+- Nasi Goreng
+- Ayam Goreng
+- Sate Ayam
+- Soto Ayam
+- Soto Mie
+- Siomay
+- Batagor
+- Dimsum
+- Pizzas
